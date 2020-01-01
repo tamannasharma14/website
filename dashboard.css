@@ -1,0 +1,45 @@
+#r1
+{
+	background-color: grey;
+	color:black;
+	padding-left:10px;
+}
+#c1{
+	margin:20px 40px 20px 40px;
+	
+}
+#d1{
+	background-color:white;
+
+	margin:20px 10px 10px 20px;
+	width:22%;
+	height:400px;
+	}
+#d2{
+	background-color:white;
+	margin:20px 10px 10px 10px;
+	width:22%;
+	height:450px;
+	
+}
+#d3{
+	background-color:white;
+	margin:20px 10px 10px 10px;
+	width:22%;
+	height:550px;
+}
+#d4{
+	background-color:white;
+	margin:20px 10px 10px 10px;
+	width:22%;
+	height:350px;
+}
+td
+{
+	padding:20px 50px 10px 5px;
+}
+#total{
+background-color:#00b3b3;
+padding-top:40px;
+
+}
